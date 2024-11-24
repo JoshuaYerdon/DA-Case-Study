@@ -13,4 +13,4 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-limit 10
+limit 100
