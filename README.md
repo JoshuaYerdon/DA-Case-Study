@@ -45,7 +45,7 @@ LIMIT 10
 - Large companies such as **CITI**, **GOPUFF** and **Nestle** can be seen in the data, showing a range of company size in the industry.
 
 
-![Highest Pair Data Analyst Jobs Results](/Assets/Highest%20Paid%20Data%20Analyst%20Jobs%20NY.png)
+![Highest Pair Data Analyst Jobs Results](/Assets/Highest%20Paid%20Data%20Analyst%20Jobs%20NY.png) <br>
 **_Bar graph visualizing the Highest Paid Data Analyst Positions In NY._**
 
 
@@ -73,7 +73,7 @@ The folling is a summary of the top skills:
 - **Excel** is in 2nd place with nearly 70000 jobs.
 - **Python** is in a close 3rd with about 57000 jobs.
 
-![Top Demanded Data Analyst Skills](/Assets/Top%20Demanded%20Data%20Analyst%20Skills.png)
+![Top Demanded Data Analyst Skills](/Assets/Top%20Demanded%20Data%20Analyst%20Skills.png) <br>
 **_Column chart visualizing the Top Demanded Data Analyst Skills_**
 
 ### 3. Highest Paying Analyst Skills
@@ -105,7 +105,7 @@ This dataset's results might not be what you expected. From this dataset, I can 
 - At the higher and more specialized ends of the industry, different tools and skills are needed, reflecting the varied nature of advanced data analytics roles.
 
 
-![Top Paid Data Analyst Skills](/Assets/Top%20Paying%20Data%20Analyst%20Skills.png)
+![Top Paid Data Analyst Skills](/Assets/Top%20Paying%20Data%20Analyst%20Skills.png) <br>
 **_Column chart visualizing the Top Paying Data Analyst Skills_**
 # What I learned
 This was my first real attempt at querying, analyzing, and making inferences about data. I gained valuable experience within the SQL ecosystem, advancing my skills beyond the novice level. Through this project, I honed my querying abilities and learned to interpret and draw insights from data, strengthening my foundation in data analysis. 
