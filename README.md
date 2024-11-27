@@ -1,6 +1,6 @@
 # Introduction
 
- I sought out to learn about the data analyst role, exploring key factors such as the highest-paying jobs, the most in-demand skills, and the optimal skill sets for career growth. The following gives insights into the field of data analysis. 
+ My goal was to learn about the data analyst role, exploring key factors such as the highest-paying jobs, the most in-demand skills, and the optimal skill sets for career growth. The following gives insights into the field of data analysis. 
 ###### _This project's SQL queries can be found here:_ [🔴](/project_sql)
 
 # Tools I used
@@ -50,7 +50,7 @@ LIMIT 10
 
 
 ### 2. Most Demanded Analyst Skills
-Thie next query used **COUNT** to count the total number of times a given skill was desired in the dataset. I then filtered for data analyst jobs only with **WHERE** and grouped the shills together to get the total amount of 'skills'.
+Thie next query used **COUNT** to count the total number of times a given skill was desired in the dataset. I then filtered for data analyst jobs only with **WHERE** and grouped the skills together to get the total amount of 'skills'.
 
 ```SQL
 SELECT  
@@ -68,8 +68,8 @@ ORDER BY
     demand_count DESC
 limit 10
 ```
-The folling is a summary of the top skills:
-- **SQL** demand for this can be found in **~** 94000 jobs.
+The following is a summary of the top skills:
+- The demand for **SQL** skills can be found in **~** 94000 jobs.
 - **Excel** is in 2nd place with nearly 70000 jobs.
 - **Python** is in a close 3rd with about 57000 jobs.
 
@@ -78,7 +78,7 @@ The folling is a summary of the top skills:
 
 ### 3. Highest Paying Analyst Skills
 
-For the 3rd and final query, I took took the field 'salary_year_avg' and put it inside **AVG** (as avg_salary) to get the highest average salaries, filtering for data analyst with **WHERE** again. (_I used **ROUND** because I kept recieving MASSIVE decimals._)
+For the 3rd and final query, I took took the field 'salary_year_avg' and put it inside **AVG** (as avg_salary) to get the highest average salaries, filtering for data analyst with **WHERE** again. (_I used **ROUND** because I kept receiving MASSIVE decimals._)
 
 ```SQL
 SELECT  
