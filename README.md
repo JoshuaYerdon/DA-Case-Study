@@ -1,7 +1,7 @@
 # Introduction
 
  My goal was to learn about the data analyst role, exploring key factors such as the highest-paying jobs, the most in-demand skills, and the optimal skill sets for career growth. The following gives insights into the field of data analysis.
- Additionally, this was my attempt at Luke Barousse's SQL case study project, the original can be found **[HERE](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis).**
+ Additionally, this was my attempt at Luke Barousse's SQL case study challenge, the original can be found **[HERE](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis).**
 ###### _This project's SQL queries can be found here:_ [🔴](/project_sql) 
 # Tools I used
 The following tools were used, each helping to shape my approach and streamline the process:
